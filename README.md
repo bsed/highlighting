@@ -10,7 +10,7 @@
 ```bash
 git clone https://github.com/bsed/highlighting.git
 ```
-将会下载 .js 和 .css 两个渲染脚本，然后编辑 header.php，在如下位置插入如下代码：
+将会下载 .js 和 .css 两个渲染脚本，然后编辑 `header.jsp`，在如下位置插入如下代码：
 ```html
 <link rel="stylesheet" href="./prism.css">
 <script src=".prism.js"></script>
