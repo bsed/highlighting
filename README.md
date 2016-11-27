@@ -17,4 +17,4 @@ git clone https://github.com/bsed/highlighting.git
 ```
 
 如图：
-![prism](https://raw.githubusercontent.com/bsed/images/master/2016/11/prism-js-css.pngimages/2016/11/prism-js-css.png)
+![prism](https://raw.githubusercontent.com/bsed/images/master/2016/11/prism-js-css.png)
