@@ -14,4 +14,6 @@ git clone https://github.com/bsed/highlighting.git
 ```html
 <link rel="stylesheet" href="./prism.css">
 <script src=".prism.js"></script>
-```
+
+u如图：
+![prism-js-css.png](images/2016/11/prism-js-css.png)
